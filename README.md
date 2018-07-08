@@ -7,7 +7,10 @@ ColorWheel is an iOS game where players match the color wheel to the color of th
 <img src="https://i.imgur.com/Ih2IYsp.png" alt="initialgame"   height="350px" align="left"/>
 <img src="https://i.imgur.com/u4sM6XO.png" alt="afterscoringpoint"  height="350px"  align="left"/>
 
-<div clear="left"></div>
+<br>
+<br>
+<br>
+
 ## Development setup
 
 Must use latest version of Xcode (9.4 or later). To import project go to file > open > find and select ColorWheel.xcodeproj
