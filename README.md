@@ -1,9 +1,9 @@
 # ColorWheel
 > iOS SpriteKit game
 
-ColorWheel is an iOS game where players match the color wheel to the color of the dropping ball by tapping on the screen. If the player fails to match up the ball to the correct color they lose. The game insreases in difficulty every five points scored. 
+ColorWheel is an iOS game where players match the color wheel to the color of the ball dropping by tapping on the screen. If the player fails to match up the ball to the correct color they lose. The game insreases in difficulty every five points scored. 
 
-<img src="https://i.imgur.com/pzepjME.png" alt="homescreen"  height="350px"/>
+<img src="https://i.imgur.com/pzepjME.png" alt="homescreen"  height="350px" align="center"/>
 
 
 
