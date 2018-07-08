@@ -10,6 +10,12 @@ ColorWheel is an iOS game where players match the color wheel to the color of th
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Development setup
 
